@@ -199,17 +199,17 @@
     "concurrently": "^10.0.4",
     "cypress": "^15.20.0",
     "diff": "^9.0.0",
-    "eslint": "^10.8.0",
+    "eslint": "^10.8.1",
     "exif": "^0.6.0",
     "globals": "^17.11.0",
     "grunt-cli": "^1.5.0",
-    "neostandard": "^0.14.0-next",
+    "neostandard": "^0.14.0-next.1",
     "nyc": "^18.0.0",
     "socket.io-client": "^4.8.3",
     "supertest": "^7.2.2",
     "tsx": "^4.23.9",
-    "typescript": "^7.0.2",
-    "typescript-eslint": "^8.66.0"
+    "typescript": "^4.8.4",
+    "typescript-eslint": "^8.67.0"
   },
   "engines": {
     "node": "22 - 26"
